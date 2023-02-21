@@ -1,0 +1,16 @@
+.tittle {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin: .1rem 1rem 1rem 1rem;
+}
+
+button {
+  display: flex;
+  flex-direction: row;
+  margin: .1rem 1rem 1rem 1rem;
+}
